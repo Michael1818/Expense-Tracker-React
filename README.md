@@ -1,3 +1,6 @@
+# This is the first full project on React I coded along from begining to the end with Brad Travesty
+<a href="https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=2">Expense Tracker</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
